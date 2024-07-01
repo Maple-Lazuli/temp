@@ -1,0 +1,12 @@
+  Team   year IMR_Item Days_Late
+   <fct> <dbl> <chr>        <dbl>
+ 1 1      2023 Dental         3.6
+ 2 1      2023 Flu            7.2
+ 3 1      2023 PHA            5  
+ 4 1      2023 MHA            5  
+ 5 3      2023 Dental         4.5
+ 6 3      2023 Flu            5.6
+ 7 3      2023 PHA           12  
+ 8 3      2023 MHA            3  
+ 9 2      2023 Dental        33.2
+10 2      2023 Flu            4.8

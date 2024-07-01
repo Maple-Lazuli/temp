@@ -1,0 +1,7 @@
+    Dental           Flu              PHA            MHA       
+ Min.   : 0.00   Min.   : 0.000   Min.   : 0.0   Min.   : 0.00  
+ 1st Qu.: 5.40   1st Qu.: 1.600   1st Qu.: 5.0   1st Qu.: 3.00  
+ Median :10.65   Median : 4.400   Median : 9.0   Median : 7.50  
+ Mean   :11.47   Mean   : 4.737   Mean   : 8.2   Mean   : 7.37  
+ 3rd Qu.:16.20   3rd Qu.: 7.200   3rd Qu.:12.0   3rd Qu.:12.00  
+ Max.   :35.00   Max.   :12.500   Max.   :15.0   Max.   :15.00  
